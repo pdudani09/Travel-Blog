@@ -9,7 +9,7 @@
       "image": "/Images/bratislava.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": "Bratislava, the capital of Slovakia, is set along the Danube River by the border with Austria and Hungary. It’s surrounded by vineyards and the Little Carpathian mountains, crisscrossed with forested hiking and cycling trails. The pedestrian-only, 18th-century old town is known for its lively bars and cafes. Perched atop a hill, the reconstructed Bratislava Castle overlooks old town and the Danube."
     },
@@ -22,7 +22,7 @@
       "image": "/images/vienna.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": "Vienna, Austria’s capital, lies in the country’s east on the Danube River. Its artistic and intellectual legacy was shaped by residents including Mozart, Beethoven and Sigmund Freud. The city is also known for its Imperial palaces, including Schönbrunn, the Habsburgs’ summer residence"
     },
@@ -35,7 +35,7 @@
       "image": "/Images/snowy_korea.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": "Seoul, the capital of South Korea, is a huge metropolis where modern skyscrapers, high-tech subways and pop culture meet Buddhist temples, palaces and street markets. Notable attractions include futuristic Dongdaemun Design Plaza, a convention hall with curving architecture and a rooftop park; Gyeongbokgung Palace, which once had more than 7,000 rooms; and Jogyesa Temple, site of ancient locust and pine trees."
     },
@@ -48,7 +48,7 @@
       "image": "/images/red_light_amsterdam.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": "Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s 17th-century Golden Age. Its Museum District houses the Van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk. Cycling is key to the city’s character, and there are numerous bike paths."
     },
@@ -61,7 +61,7 @@
       "image": "/Images/prague.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": "Prague, capital city of the Czech Republic, is bisected by the Vltava River. Nicknamed “the City of a Hundred Spires,” it's known for its Old Town Square, the heart of its historic core, with colorful baroque buildings, Gothic churches and the medieval Astronomical Clock, which gives an animated hourly show. Completed in 1402, pedestrian Charles Bridge is lined with statues of Catholic saints."
     },
@@ -74,7 +74,7 @@
       "image": "/Images/korea_lights.JPG",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": "South Korea, an East Asian nation on the southern half of the Korean Peninsula, shares one of the world’s most heavily militarized borders with North Korea. It’s equally known for its green, hilly countryside dotted with cherry trees and centuries-old Buddhist temples, plus its coastal fishing villages, sub-tropical islands and high-tech cities such as Seoul, the capital."
     },
@@ -87,7 +87,7 @@
       "image": "/Images/hungary.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": "Budapest, Hungary’s capital, is bisected by the River Danube. Its 19th-century Chain Bridge connects the hilly Buda district with flat Pest. A funicular runs up Castle Hill to Buda’s Old Town, where the Budapest History Museum traces city life from Roman times onward. Trinity Square is home to 13th-century Matthias Church and the turrets of the Fishermen’s Bastion, which offer sweeping views."
     },
@@ -100,7 +100,7 @@
       "image": "/Images/gardenbythebay.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": "Everland Resort is a theme park and vacation resort located in Yongin, Gyeonggi-do, South Korea. It is owned and operated by Samsung Everland. The resort opened on April, 1976, as a single theme park, but developed into a resort with water parks, hostels, speedways, golf course and museums."
     },
@@ -113,7 +113,7 @@
       "image": "/Images/fireworks.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": ""
     },
@@ -126,7 +126,7 @@
       "image": "/Images/brugge.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": "Bruges, the capital of West Flanders in northwest Belgium, is distinguished by its canals, cobbled streets and medieval buildings. Its port, Zeebrugge, is an important center for fishing and European trade. In the city center’s Burg square, the 14th-century Stadhuis (City Hall) has an ornate carved ceiling. Nearby, Markt square features a 13th-century belfry with a 47-bell carillon and 83m tower with panoramic views."
     },
@@ -139,7 +139,7 @@
       "image": "/Images/beautifulSA.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": "South Africa is a country on the southernmost tip of the African continent, marked by several distinct ecosystems. Inland safari destination Kruger National Park is populated by big game. The Western Cape offers beaches, lush winelands around Stellenbosch and Paarl, craggy cliffs at the Cape of Good Hope, forest and lagoons along the Garden Route, and the city of Cape Town, beneath flat-topped Table Mountain. "
     },
@@ -152,7 +152,7 @@
       "image": "/Images/belgium_waffles.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/author.jpg"
+        "avatar": "/blob/main/author.jpg"
       },
       "description": "A waffle is a dish made from leavened batter or dough that is cooked between two plates that are patterned to give a characteristic size, shape, and surface impression. There are many variations based on the type of waffle iron and recipe used."
     }
