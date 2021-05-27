@@ -22,7 +22,7 @@
       "image": "/blob/711d30fe18a0952f7e1d3e3c772e3626fa7ceb4f/Images/vienna.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "blob/7b503e7585aecae01d9160aea54f6c9bc73f0e7a/author%20(1).jpg"
+        "avatar": "/blob/7b503e7585aecae01d9160aea54f6c9bc73f0e7a/author.jpg"
       },
       "description": "Vienna, Austria’s capital, lies in the country’s east on the Danube River. Its artistic and intellectual legacy was shaped by residents including Mozart, Beethoven and Sigmund Freud. The city is also known for its Imperial palaces, including Schönbrunn, the Habsburgs’ summer residence"
     },
@@ -48,7 +48,7 @@
       "image": "/blob/main/Images/red_light_amsterdam.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/blob/main/author.jpg"
+        "avatar": "/blob/76b537673be7674babcfabc48445b0deb448a9b5/author.jpg"
       },
       "description": "Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s 17th-century Golden Age. Its Museum District houses the Van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk. Cycling is key to the city’s character, and there are numerous bike paths."
     },
@@ -66,7 +66,7 @@
       "description": "Prague, capital city of the Czech Republic, is bisected by the Vltava River. Nicknamed “the City of a Hundred Spires,” it's known for its Old Town Square, the heart of its historic core, with colorful baroque buildings, Gothic churches and the medieval Astronomical Clock, which gives an animated hourly show. Completed in 1402, pedestrian Charles Bridge is lined with statues of Catholic saints."
     },
 	    {
-      "id": 12,
+      "id": 6,
       "title": "Belgium",
       "date": "June 2019",
       "views": 26427,
@@ -113,9 +113,9 @@
       "image": "/blob/711d30fe18a0952f7e1d3e3c772e3626fa7ceb4f/Images/fireworks.jpg",
       "author": {
         "name": "Praveen Dudani",
-        "avatar": "/blob/main/author.jpg"
+        "avatar": "/blob/76b537673be7674babcfabc48445b0deb448a9b5/author.jpg"
       },
-      "description": ""
+      "description": "Everland Resort is a theme park and vacation resort located in Yongin, Gyeonggi-do, South Korea. It is owned and operated by Samsung Everland. The resort opened on April, 1976, as a single theme park, but developed into a resort with water parks, hostels, speedways, golf course and museums."
     },
     {
       "id": 10,
